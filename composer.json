@@ -1,0 +1,15 @@
+{
+    "name": "limberth/tdd",
+    "autoload": {
+        "psr-4": {
+            "Limberth\\Tdd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LimberthStyle",
+            "email": "202001421b@utea.edu.pe"
+        }
+    ],
+    "require": {}
+}
